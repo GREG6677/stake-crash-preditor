@@ -1,5 +1,5 @@
 # stake-crash-predictor
-Hello here is a software that is injected into the gamdom site which allows you to predict the crash !!!!!!!!!
+Hello here is a software that is injected into the stake site which allows you to predict the crash !!!!!!!!!
 
 
 ![images](https://github.com/IWcommunityFR/stake-crash-preditor/assets/158751385/2e87b9b6-e86e-4bfd-bf00-e7740dbd2216)
