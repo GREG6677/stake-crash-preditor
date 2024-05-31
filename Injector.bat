@@ -1,6 +1,6 @@
 @echo off
 
-title Gamdom Predictor
+title Stake Predictor
 rem You can do any color
 color 0c
 
